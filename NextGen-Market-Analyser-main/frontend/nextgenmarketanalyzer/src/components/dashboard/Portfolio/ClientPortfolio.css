@@ -1,0 +1,41 @@
+/* ClientPortfolio.css */
+
+.client-portfolio {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.client-card {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #fff;
+}
+
+.fund-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f7f7f7;
+}
+
+.chart-container {
+  margin-top: 15px;
+  text-align: center;
+  width: 100%;
+  height: 400px; /* Adjusted size */
+}
+
+.chart-container h5 {
+  margin-bottom: 10px;
+  color: #05774A; /* Updated color */
+}
+
+body {
+  background-color: #FFFFFF; /* Updated background color */
+ /* Prevent scrolling */
+}

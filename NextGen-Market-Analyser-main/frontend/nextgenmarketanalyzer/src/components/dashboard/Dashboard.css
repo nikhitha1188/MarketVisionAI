@@ -1,0 +1,99 @@
+:root {
+  --primary-color: #05774a; /* Main green */
+  --primary-hover: #04663f; /* Darker green for hover */
+  --active-color: #28a745;  /* Brighter green for active tab */
+  --bg-color: #ffffff;
+  --text-dark: #1a1a1a;
+  --text-light: #666;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--primary-color);
+  height: 70px;
+  z-index: 1000;
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  letter-spacing: 0.5px;
+}
+
+.navbar-brand .dot {
+  font-size: 2.2rem;
+  color: #fff;
+}
+
+/* Hamburger */
+.hamburger-btn {
+  font-size: 1.8rem;
+  color: #fff;
+  background: none;
+  border: none;
+}
+
+/* Navbar Links */
+.nav-links {
+  display: none;
+  align-items: center;
+}
+
+.nav-links.show {
+  display: flex;
+}
+
+.nav-btn {
+  background: transparent;
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.nav-btn:hover {
+  background-color: var(--primary-hover);
+  transform: translateY(-2px);
+}
+
+.active-btn {
+  background-color: var(--active-color);
+  color: #fff;
+}
+
+/* Auth Buttons */
+.auth-buttons .btn {
+  margin-bottom: 0.5rem;
+}
+
+/* Main Content */
+.main-content {
+  margin-top: 80px;
+  min-height: auto; /* Allow content to grow */
+  background-color: var(--bg-color);
+  padding-top: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .nav-links {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    background-color: var(--primary-color);
+    padding: 1rem;
+  }
+
+  .auth-buttons {
+    flex-direction: column;
+    margin-top: 1rem;
+  }
+}

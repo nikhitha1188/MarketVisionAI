@@ -1,0 +1,167 @@
+[
+  {
+    "clientId": "C101",
+    "firstName": "Rajesh",
+    "lastName": "Kumar",
+    "email": "rajesh.kumar@indianinvestments.com",
+    "password": "$2b$12$hashedpassword123",
+    "phone": "+91-9876543210",
+    "companyName": "Indian Investments Ltd",
+    "country": "India",
+    "role": "Portfolio Manager"
+  },
+  {
+    "clientId": "C102",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email": "michael.johnson@usafunds.com",
+    "password": "$2b$12$hashedpassword456",
+    "phone": "+1-555-0123",
+    "companyName": "USA Capital Management",
+    "country": "United States",
+    "role": "Investment Analyst"
+  },
+  {
+    "clientId": "C103",
+    "firstName": "Sophie",
+    "lastName": "Müller",
+    "email": "sophie.mueller@eurofinance.de",
+    "password": "$2b$12$hashedpassword789",
+    "phone": "+49-30-12345678",
+    "companyName": "Euro Finance Group",
+    "country": "Germany",
+    "role": "Wealth Manager"
+  },
+  {
+    "clientId": "C104",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "email": "priya.sharma@delhicapital.in",
+    "password": "$2b$12$hashedpassword101",
+    "phone": "+91-9876543211",
+    "companyName": "Delhi Capital Partners",
+    "country": "India",
+    "role": "Fund Manager"
+  },
+  {
+    "clientId": "C105",
+    "firstName": "James",
+    "lastName": "Wilson",
+    "email": "james.wilson@londoninvest.co.uk",
+    "password": "$2b$12$hashedpassword202",
+    "phone": "+44-20-7946-0958",
+    "companyName": "London Investment Bank",
+    "country": "United Kingdom",
+    "role": "Senior Analyst"
+  },
+  {
+    "clientId": "C106",
+    "firstName": "Yuki",
+    "lastName": "Tanaka",
+    "email": "yuki.tanaka@tokyocapital.jp",
+    "password": "$2b$12$hashedpassword303",
+    "phone": "+81-3-1234-5678",
+    "companyName": "Tokyo Capital Group",
+    "country": "Japan",
+    "role": "Investment Director"
+  },
+  {
+    "clientId": "C107",
+    "firstName": "Liam",
+    "lastName": "Chen",
+    "email": "liam.chen@torontowealth.ca",
+    "password": "$2b$12$hashedpassword404",
+    "phone": "+1-416-555-0199",
+    "companyName": "Toronto Wealth Management",
+    "country": "Canada",
+    "role": "Financial Advisor"
+  },
+  {
+    "clientId": "C108",
+    "firstName": "Charlotte",
+    "lastName": "Brown",
+    "email": "charlotte.brown@sydneyfunds.com.au",
+    "password": "$2b$12$hashedpassword505",
+    "phone": "+61-2-9876-5432",
+    "companyName": "Sydney Funds Ltd",
+    "country": "Australia",
+    "role": "Portfolio Strategist"
+  },
+  {
+    "clientId": "C109",
+    "firstName": "Marco",
+    "lastName": "Rossi",
+    "email": "marco.rossi@zurichprivate.ch",
+    "password": "$2b$12$hashedpassword606",
+    "phone": "+41-44-567-8901",
+    "companyName": "Zurich Private Bank",
+    "country": "Switzerland",
+    "role": "Private Banker"
+  },
+  {
+    "clientId": "C110",
+    "firstName": "Ananya",
+    "lastName": "Patel",
+    "email": "ananya.patel@mumbaifinance.in",
+    "password": "$2b$12$hashedpassword707",
+    "phone": "+91-9876543212",
+    "companyName": "Mumbai Financial Services",
+    "country": "India",
+    "role": "Chief Investment Officer"
+  },
+  {
+    "clientId": "C111",
+    "firstName": "David",
+    "lastName": "Smith",
+    "email": "david.smith@nycinvest.com",
+    "password": "$2b$12$hashedpassword808",
+    "phone": "+1-212-555-0187",
+    "companyName": "New York Investment Partners",
+    "country": "United States",
+    "role": "Hedge Fund Manager"
+  },
+  {
+    "clientId": "C112",
+    "firstName": "Isabella",
+    "lastName": "Garcia",
+    "email": "isabella.garcia@madridwealth.es",
+    "password": "$2b$12$hashedpassword909",
+    "phone": "+34-91-123-4567",
+    "companyName": "Madrid Wealth Management",
+    "country": "Spain",
+    "role": "Wealth Advisor"
+  },
+  {
+    "clientId": "C113",
+    "firstName": "Wei",
+    "lastName": "Zhang",
+    "email": "wei.zhang@shanghaicapital.cn",
+    "password": "$2b$12$hashedpassword010",
+    "phone": "+86-21-5876-5432",
+    "companyName": "Shanghai Capital Group",
+    "country": "China",
+    "role": "Investment Manager"
+  },
+  {
+    "clientId": "C114",
+    "firstName": "Emma",
+    "lastName": "Dubois",
+    "email": "emma.dubois@parisfinance.fr",
+    "password": "$2b$12$hashedpassword111",
+    "phone": "+33-1-42-86-93-57",
+    "companyName": "Paris Finance Corporation",
+    "country": "France",
+    "role": "Financial Analyst"
+  },
+  {
+    "clientId": "C115",
+    "firstName": "Rahul",
+    "lastName": "Verma",
+    "email": "rahul.verma@bengaluruinvest.in",
+    "password": "$2b$12$hashedpassword222",
+    "phone": "+91-9876543213",
+    "companyName": "Bengaluru Investment Trust",
+    "country": "India",
+    "role": "Quantitative Analyst"
+  }
+]
